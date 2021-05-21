@@ -1,0 +1,25 @@
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\NewWindowsFormsApp.exe
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\NewWindowsFormsApp.deps.json
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\NewWindowsFormsApp.runtimeconfig.json
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\NewWindowsFormsApp.runtimeconfig.dev.json
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\NewWindowsFormsApp.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\NewWindowsFormsApp.pdb
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.csprojAssemblyReference.cache
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.Form1 - Copy.resources
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.Form1.resources
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.Form2.resources
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.Form3.resources
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.csproj.GenerateResource.cache
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.AssemblyInfoInputs.cache
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.AssemblyInfo.cs
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.csproj.CopyComplete
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.dll
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.pdb
+E:\Fall 2020\CDS 302\NewWindowsFormsApp\NewWindowsFormsApp\obj\Release\netcoreapp3.1\NewWindowsFormsApp.genruntimeconfig.cache
