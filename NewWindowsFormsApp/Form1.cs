@@ -70,7 +70,7 @@ namespace NewWindowsFormsApp
             string stmt = "SELECT COUNT(*) FROM Users";
             int count = 0;
 
-            using (SqlConnection thisConnection = new SqlConnection("server=NZXT\\SQLEXPRESS;database=302;UID=isohrob;password=solaiman1"))
+            using (SqlConnection thisConnection = new SqlConnection("server=NZXT\\SQLEXPRESS;database=302;UID=isohrob;password="))
             {
                 using (SqlCommand cmdCount = new SqlCommand(stmt, thisConnection))
                 {
